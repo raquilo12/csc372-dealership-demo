@@ -1,0 +1,17 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+*.jar
+*.war
+*.log
+bin/
+out/
+target/
+
+# Node/Gradle/Maven (if any)
+node_modules/
+.gradle/
+.mvn/
